@@ -2,7 +2,6 @@
 
 # A Yen for the Future
 
-![Yen Photo](README Image/unit-10-readme-photo.png)
 
 ## Background
 
