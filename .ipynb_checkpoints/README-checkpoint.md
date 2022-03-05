@@ -40,5 +40,3 @@ In this notebook, we will build a Scikit-Learn linear regression model to predic
 Using the results of the linear regression analysis and modeling, we will answer the following question:
 
 * Does this model perform better or worse on out-of-sample data compared to in-sample data?
-
-Conclusions can be found at the bottom of each notebook. 
